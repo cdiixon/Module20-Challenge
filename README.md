@@ -2,7 +2,7 @@ Credit Risk Analysis Report
 
 1. Explain the purpose of this analysis:
 
-   The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credit worthiness of potential borrowers
+   The purpose of this analysis is to evaluate the accuracy of a data model that predicts the credit worthiness of potential borrowers
 
 2. Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
